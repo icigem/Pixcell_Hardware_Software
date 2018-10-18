@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#374059</color>
+    <color name="colorPrimaryDark">#2B2F3A</color>
+    <color name="colorAccent">#48F5B3</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="invader1">#683AB7</color>
+    <color name="invader2">#29B6F6</color>
+    <color name="invader3">#FF6D00</color>
+    <color name="invader4">#4DB6AC</color>
+    <color name="invader5">#D50000</color>
+    <color name="invader6">#FF4081</color>
+    <color name="invader7">#FFEB3B</color>
+    <color name="invader8">#304FFE</color>
+    <color name="skullxb1">#000000</color>
+    <color name="helmet1">#8BC34A</color>
+    <color name="walker1">#283593</color>
+    <color name="jelly1">#AB47BC</color>
+    <color name="tank1">#2E7D32</color>
+    <color name="bat1">#8D6E63</color>
+</resources>

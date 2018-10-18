@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PixelDraw</string>
+    <string name="text_paintbrush">Paintbrush</string>
+    <string name="text_eraser">Eraser</string>
+    <string name="text_clear">Clear</string>
+    <string name="text_selectpattern">Patterns</string>
+    <string name="text_setpattern">Select Pattern</string>
+    <string name="dialog_send_data">Are you sure you want to finish drawing and send the pattern?</string>
+    <string name="send_data">Send</string>
+    <string name="cancel">Cancel</string>
+    <string name="setColor">Set Color</string>
+
+    <string name="invader1">invader 1</string>
+    <string name="invader2">invader 2</string>
+    <string name="invader3">invader 3</string>
+    <string name="invader4">invader 4</string>
+    <string name="invader5">invader 5</string>
+    <string name="invader6">invader 6</string>
+    <string name="invader7">invader 7</string>
+    <string name="invader8">invader 8</string>
+    <string name="skullxb1">skull xb 1</string>
+    <string name="helmet1">helmet 1</string>
+    <string name="walker1">walker 1</string>
+    <string name="jelly1">jelly 1</string>
+    <string name="tank1">tank 1</string>
+    <string name="bat1">bat 1</string>
+
+</resources>

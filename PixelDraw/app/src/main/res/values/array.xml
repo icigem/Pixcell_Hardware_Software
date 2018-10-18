@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="invader1">
+        <item>0000000000</item>
+        <item>0010000100</item>
+        <item>0001001000</item>
+        <item>0011111100</item>
+        <item>0110110110</item>
+        <item>1111111111</item>
+        <item>1011111101</item>
+        <item>1010000101</item>
+        <item>0001111000</item>
+        <item>0000000000</item>
+    </string-array>
+    <string-array name="invader2">
+        <item>0000000000</item>
+        <item>0001110000</item>
+        <item>0111111100</item>
+        <item>1111111110</item>
+        <item>1001110010</item>
+        <item>1111111110</item>
+        <item>0010001000</item>
+        <item>0101110100</item>
+        <item>1000000010</item>
+        <item>0000000000</item>
+    </string-array>
+    <string-array name="invader3">
+        <item>0000000000</item>
+        <item>0010000100</item>
+        <item>0001001000</item>
+        <item>0011111100</item>
+        <item>0110110110</item>
+        <item>1111111111</item>
+        <item>1011111101</item>
+        <item>0001001000</item>
+        <item>0010000100</item>
+        <item>0000000000</item>
+    </string-array>
+    <string-array name="invader4">
+        <item>0000000000</item>
+        <item>0010000100</item>
+        <item>1001001001</item>
+        <item>1011111101</item>
+        <item>1110110111</item>
+        <item>0110110110</item>
+        <item>0111111110</item>
+        <item>0101001010</item>
+        <item>1100000011</item>
+        <item>0000000000</item>
+    </string-array>
+    <string-array name="invader5">
+        <item>0000000000</item>
+        <item>0000000000</item>
+        <item>0010001000</item>
+        <item>0111111100</item>
+        <item>1001110010</item>
+        <item>1111111110</item>
+        <item>1111111110</item>
+        <item>1010101010</item>
+        <item>0101010100</item>
+        <item>0000000000</item>
+    </string-array>
+    <string-array name="invader6">
+        <item>0000000000</item>
+        <item>0000110000</item>
+        <item>0001111000</item>
+        <item>0011111100</item>
+        <item>0110110110</item>
+        <item>0111111110</item>
+        <item>0001001000</item>
+        <item>0010110100</item>
+        <item>0101001010</item>
+        <item>0000000000</item>
+    </string-array>
+    <string-array name="invader7">
+        <item>0000000000</item>
+        <item>0000100000</item>
+        <item>0001110000</item>
+        <item>0011111000</item>
+        <item>0111111100</item>
+        <item>1100100110</item>
+        <item>1111111110</item>
+        <item>0011111000</item>
+        <item>0100100100</item>
+        <item>1001010010</item>
+    </string-array>
+    <string-array name="invader8">
+        <item>0000000000</item>
+        <item>0000000000</item>
+        <item>0001111000</item>
+        <item>0011111100</item>
+        <item>0110110110</item>
+        <item>0111111110</item>
+        <item>0001111000</item>
+        <item>0010110100</item>
+        <item>0100000010</item>
+        <item>0000000000</item>
+    </string-array>
+    <string-array name="skullxb1">
+        <item>0011111100</item>
+        <item>0010110100</item>
+        <item>0011111100</item>
+        <item>0001111000</item>
+        <item>0000000000</item>
+        <item>0101111010</item>
+        <item>1100000011</item>
+        <item>0111001110</item>
+        <item>0001111000</item>
+        <item>0000110000</item>
+    </string-array>
+    <string-array name="helmet1">
+        <item>0000000000</item>
+        <item>0000110000</item>
+        <item>0011111100</item>
+        <item>0111111110</item>
+        <item>0100110010</item>
+        <item>0111111110</item>
+        <item>0010110100</item>
+        <item>0010000100</item>
+        <item>0001111000</item>
+        <item>0000000000</item>
+    </string-array>
+    <string-array name="walker1">
+        <item>0000000000</item>
+        <item>0001001000</item>
+        <item>0011111100</item>
+        <item>0111111110</item>
+        <item>1110110111</item>
+        <item>1011111101</item>
+        <item>1011111101</item>
+        <item>0001001000</item>
+        <item>0011001100</item>
+        <item>0000000000</item>
+    </string-array>
+    <string-array name="jelly1">
+        <item>0000000000</item>
+        <item>0001110000</item>
+        <item>0111111100</item>
+        <item>1101110110</item>
+        <item>1111111110</item>
+        <item>0110001100</item>
+        <item>0011111000</item>
+        <item>0110001100</item>
+        <item>1000000010</item>
+        <item>0110001100</item>
+    </string-array>
+    <string-array name="tank1">
+        <item>0000000000</item>
+        <item>0000000000</item>
+        <item>0011000000</item>
+        <item>0111111110</item>
+        <item>0011100000</item>
+        <item>0111111100</item>
+        <item>1101010110</item>
+        <item>0111111100</item>
+        <item>0000000000</item>
+        <item>0000000000</item>
+    </string-array>
+    <string-array name="bat1">
+        <item>0000000000</item>
+        <item>0001001000</item>
+        <item>0000110000</item>
+        <item>0101111010</item>
+        <item>0110110110</item>
+        <item>0111111110</item>
+        <item>0101111010</item>
+        <item>0100110010</item>
+        <item>0110000110</item>
+        <item>0000000000</item>
+    </string-array>
+
+    
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_paintbrush"
+        android:enabled="true"
+        android:icon="@drawable/paintbrush"
+        android:title="@string/text_paintbrush"
+        app:showAsAction="ifRoom" >
+    </item>
+    <item
+        android:id="@+id/action_eraser"
+        android:enabled="true"
+        android:icon="@drawable/eraser"
+        android:title="@string/text_eraser"
+        app:showAsAction="ifRoom" >
+    </item>
+    <item
+        android:id="@+id/action_clear"
+        android:enabled="true"
+        android:icon="@drawable/clear"
+        android:title="@string/text_clear"
+        app:showAsAction="ifRoom" >
+    </item>
+    <item
+        android:id="@+id/action_selectpattern"
+        android:enabled="true"
+        android:icon="@drawable/smiley01"
+        android:title="@string/text_selectpattern"
+        app:showAsAction="ifRoom">
+    </item>
+    <item
+        android:id="@+id/item_none"
+        android:visible="false"
+        android:checkable="false"
+        android:enabled="true"
+        app:showAsAction="never">
+    </item>
+
+
+</menu>
